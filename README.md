@@ -12,3 +12,4 @@ Normal:	between 18.5 and 24.9
 Overweight:	between 25 and 29.9
 Obese:	30 or greater
 
+![image](https://user-images.githubusercontent.com/84737487/120114073-3babae80-c19f-11eb-8ce5-eb41ef82b811.png)
